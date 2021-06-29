@@ -1,0 +1,86 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Metallocene PE",
+            "image": "./images/products/plastic/Plastic_1.jpg",
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Hạt Nhựa PA",
+            "image": "./images/products/plastic/plastic_2.jpg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Hạt Nhựa PS",
+            "image": "./images/products/plastic/plastic_3.jpg",
+            "price": 850,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Hạt Nhựa ABS",
+            "image": "./images/products/plastic/plastic_4.jpg",
+            "price": 290,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Hạt Nhựa PC",
+            "image": "./images/products/plastic/plastic_5.jpg",
+            "price": 250,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Hạt Nhựa PP-R",
+            "image": "./images/products/plastic/plastic_6.jpg",
+            "price": 365,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Metollocene PP",
+            "image": "./images/products/plastic/plastic_7.jpg",
+            "price": 385,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "Hạt Nhựa SAN",
+            "image": "./images/products/plastic/plastic_8.jpg",
+            "price": 475,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Hạt Nhựa EVA",
+            "image": "./images/products/plastic/plastic_9.jpg",
+            "price": 800,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "Hạt Nhựa PE",
+            "image": "./images/products/plastic/plastic_10.jpg",
+            "price": 850,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "Hạt Nhựa PP",
+            "image": "./images/products/plastic/plastic_11.jpg",
+            "price": 360,
+            "category": "Trending Products"
+        }
+       
+
+    ]
+}
